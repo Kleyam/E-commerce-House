@@ -45,6 +45,10 @@ Para rodar este projeto localmente, você precisará apenas de:
 - Um editor de código (recomendo VS Code)
 - Conexão com internet (para carregar as fontes e ícones)
 
+## 🔗 Link do Projeto 
+
+- e-commerce-casa.vercel.app
+
 ## 🎯 Como Usar
 
 1. Clone este repositório:
