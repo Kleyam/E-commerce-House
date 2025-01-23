@@ -47,7 +47,7 @@ Para rodar este projeto localmente, você precisará apenas de:
 
 ## 🔗 Link do Projeto 
 
-- e-commerce-casa.vercel.app
+- https://e-commerce-house.vercel.app/
 
 ## 🎯 Como Usar
 
